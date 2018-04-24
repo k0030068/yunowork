@@ -1,1 +1,1 @@
-"# yunowork" 
+"# Ei tää oo oikein tehty mutta kun ei osaa niin ei osaa. Sain sentään tän tiedoston luotua tänne command promptilla mutta en mä kyllä mitään muuta saa tänne siirtymään ja tämäkin teksti lisätty githubin omassa editorissa ¯\_(ツ)_/¯" 
